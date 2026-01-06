@@ -1,7 +1,16 @@
 {
-  "name": "MyCoin",
-  "symbol": "MYC",
-  "description": "My first Solana token on devnet",
-  "image": "https://nftstorage.link/ipfs/XXXXXXXX",
-  "attributes": []
+  "name": "uyouyo coin",
+  "symbol": "UYOC",
+  "description": "uyouyocoin on Solana dev network",
+  "image": "https://raw.githubusercontent.com/xr0z/uyouyocoin/main/icon.png",
+  "external_url": "https://github.com/xr0z/uyouyocoin",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/xr0z/uyouyocoin/main/icon.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
